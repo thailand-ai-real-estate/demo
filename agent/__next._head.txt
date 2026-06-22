@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[3576,["/demo/_next/static/chunks/44ge790wrfxb6.js","/demo/_next/static/chunks/0ab_ng33xm9oo.js"],"ViewportBoundary"]
+3:I[3576,["/demo/_next/static/chunks/44ge790wrfxb6.js","/demo/_next/static/chunks/0ab_ng33xm9oo.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[23227,["/demo/_next/static/chunks/44ge790wrfxb6.js","/demo/_next/static/chunks/0ab_ng33xm9oo.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#13294b"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Thailand co-broke OS"}],["$","meta","1",{"name":"description","content":"オーナー直の確認済み物件を客付けエージェントへ流通させ、帰属・分配・証跡を管理する取引 OS。表側に多言語コンシェルジュ。"}],["$","link","2",{"rel":"icon","href":"/demo/icon.svg?icon.16t_b12oe0kdo.svg","sizes":"any","type":"image/svg+xml"}],["$","$L5","3",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"fUZ7QcD6zE5t08vEw0AE-"}
